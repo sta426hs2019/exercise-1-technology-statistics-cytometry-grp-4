@@ -5,7 +5,7 @@
 
 * Modern Cytometry can measure complex characteristics like cell morphology or gather detailed information like the presence of specific surface elements. It also reached a high level of automation.
 
-* An example of a prominent technology within the field is Flow Cytometry. These instrument suspend the cells of interest within a flowing medium to isolate them and then shine a laser upon each one by one. A wealth of information can be gained from the resulting light scattering thanks to a vast library of dyes. Another example is mass cytometry, in which isotopes of diverse atomic weights are separated with efficiency and Ab-seq, which finds epitopes with the aid of specific antibodies. The labeling of these antibodies is performed with sequence tags via microfluidic barcoding and DNA sequencing. 
+* An example of a prominent technology within the field is Flow Cytometry. These instrument suspend the cells of interest within a flowing medium to isolate them and then shine a laser upon each one by one. A wealth of information can be gained from the resulting light scattering thanks to a vast library of dyes. Another example is Mass Cytometry, in which isotopes of diverse atomic weights are separated with efficiency and Ab-seq, which finds epitopes with the aid of specific antibodies. The labeling of these antibodies is performed with sequence tags via microfluidic barcoding and DNA sequencing. 
 
 ### **Links to resources** 
 
